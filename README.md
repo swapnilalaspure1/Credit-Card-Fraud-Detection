@@ -18,7 +18,7 @@ We are going to predict whether a credit card transaction is Legit ( Legal ) or 
 
 
 ## WORK PROCESS:-
-- Credit card data
+- Credit card data - (Kaggle)
 - Data Pre Processing
 - Data Analysis
 - Train Test Split
